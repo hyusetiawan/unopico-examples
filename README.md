@@ -8,4 +8,4 @@ To do so, open command line and go into the folder of your app:
 - Python 3:`python -m SimpleHTTPServer`
 - PHP: `php -S localhost:8000`
 
-then open http://localhost:8000
+then open http://localhost:8000, you will see a welcome message in your dev console
